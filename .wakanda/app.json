@@ -1,0 +1,23 @@
+{
+  "name": "Untitled274",
+  "components": [
+    {
+      "type": "backend",
+      "template": "default",
+      "name": "backend",
+      "path": "./backend"
+    },
+        {
+      "type": "mobile",
+      "template": "ionic2-template",
+      "name": "mobile",
+      "path": "./mobile"
+    },
+        {
+      "type": "web",
+      "template": "angular2-cli",
+      "name": "web",
+      "path": "./web"
+    }
+    ]
+}
